@@ -10,7 +10,7 @@ idade = int(input('Digite sua idade: '))
 
 data_cadastro = datetime.now()
 
-cartoes = ['R$50,00', 'R$250,00', 'R$120,00']Lui
+cartoes = ['R$50,00', 'R$250,00', 'R$120,00']
 
 cartao = random.choice(cartoes)
 
