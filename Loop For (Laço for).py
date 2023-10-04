@@ -6,3 +6,8 @@ nomes = ['Maria', 'Pedro', 'Gisele', 'Luiz', 'Eva']
 for nome in nomes :
     print('Estes são os nomes',nome)
 
+
+
+for i in range(10):
+    print(i)
+    

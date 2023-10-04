@@ -1,7 +1,7 @@
 #Strings dinâmicos
 nome = 'Luiz'
 email = 'Luizinho@hotmail.com'
-print('Ola {}! Você cadastrou o e-mail : {}. Esta informção está correta'.format(nome, email))
+print('Ola {}! Você cadastrou o e-mail : {}. Esta informção está correta ?'.format(nome, email))
 
 nome1 = 'Carol'
 hobby = 'ouvir música'

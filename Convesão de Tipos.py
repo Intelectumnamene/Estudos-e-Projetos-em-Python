@@ -1,5 +1,5 @@
 idade = input('Qual é a sua idade?')
 print(int(idade)>18)
 print(type(str(5)))
-altura_da_parede = input('Qual é a altura da prede ?\n')
+altura_da_parede = input('Qual é a altura da parede ?\n')
 print(float(altura_da_parede)> 2.10)
