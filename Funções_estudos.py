@@ -1,7 +1,8 @@
-def gerar_nome_completo(nome,sobre_nome):
-    print('Bem_vido! {} {}'.format(nome,sobre_nome))
+def gerar_nome_completo(complete):
+    nome = input("Digite seu nome: ")
+    print('Bem_vido! {}. {}'.format(nome,complete))
   
-gerar_nome_completo('Luiz','Ignacio')
+gerar_nome_completo('É um prazer conhecê-lo!')
 
 
 def calcular_valores(preço_produto, quantidade = 1 ):

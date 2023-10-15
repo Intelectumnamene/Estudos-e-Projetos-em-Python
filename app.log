@@ -1,0 +1,6 @@
+DEBUG - Loggin nível debug
+INFO - Loggin nível info
+WARNING - Loggin nível warning
+ERROR - Loggin nível error
+CRITICAL - Loggin nível critical
+INFO - invalid literal for int() with base 10: 'fertts'
