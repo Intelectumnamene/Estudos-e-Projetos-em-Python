@@ -1,0 +1,1 @@
+​Link para documentação do Magic/Dunder Methods: https://docs.python.org/pt-br/3/reference/datamodel.html#specialnames​
