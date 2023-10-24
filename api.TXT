@@ -1,0 +1,22 @@
+São serviços utilizados on-line para acessar recursos ou funcionalidades de alguma aplicação web.
+Apis são compostas de url base mais endpoint
+
+
+Recursos
+    Tudo o que é retornado  ou envidado a uma api é considerado um recusrso (resource em inglês)
+
+Verbos Http
+    Get - Obter dados existentes
+    Post - Enviar dados
+    Put - Atualizar dados existentes
+    Delete - Excluir dados  
+
+Status Codes
+    1xx = informação
+    2xx = Sucesso
+    3xx = Redirecionamento
+    4xx = Erro no cliente
+    5xx = Erro no servidor
+
+Para ver o Status codes aperte F12 em qualquer site e navegue até a aba "network"
+Consultando API usando Postaman.

@@ -18,7 +18,7 @@ if __name__ == '__main__':
 #Vale lembrar que nos respectivos arquivos também terão if __name__ == '__main__': mas com outros códigos
 # que não serão rodados dentro do arquivo onde chamo as funções emprestadas.  
 
-# esse tipo de estrutura é muito utilizado pra quando precisamos determinar o escopo do código,
+# esse tipo de estrutura é muito utilizado para quando precisamos determinar o escopo do código,
 # onde ele só ira funcionar se estiver rodando dentro 
 # do arquivo e com as otimizações feitas para ele.
 
