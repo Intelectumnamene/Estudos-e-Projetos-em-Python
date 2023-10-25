@@ -1,3 +1,10 @@
+# Requests não é uma API do Python,
+# mas sim uma biblioteca de terceiros que permite fazer requisições HTTP 
+# de maneira mais fácil e conveniente. 
+# Essa biblioteca simplifica o processo de envio de solicitações HTTP, 
+# como fazer solicitações GET e POST para interagir com servidores da web.
+
+
 import requests
 from pprint import pprint # exibe de forma mais legível os resultados de uma api
 
@@ -8,8 +15,8 @@ resultado_get = requests.get('https://jsonplaceholder.typicode.com/todos')
 #Get com id
 resultado_get_com_id = requests.get('https://jsonplaceholder.typicode.com/todos/2')
 #pprint(resultado_get_com_id.json())
-#Post - Criar um novo recurso
 
+#Post - Criar um novo recurso
 nova_tarefa = {'completed': False,
  'title': 'Lavar o carro',
  'userId': 1}
